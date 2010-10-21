@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="be.irail.api.IrailApi"/>
+    <classEntry path="be.irail.api.data.Station"/>
+    <classEntry path="be.irail.api.parsers.StationsResultParser"/>
+    <classEntry path="be.irail.api.parsers.IStationsParser"/>
+    <classEntry path="be.irail.api.events.BeRailStationErrorEvent"/>
+    <classEntry path="be.irail.api.events.BeRailStationEvent"/>
+    <classEntry path="be.irail.api.services.StationsService"/>
+    <classEntry path="be.irail.api.services.ConnectionsService"/>
+    <classEntry path="be.irail.api.data.Connection"/>
+    <classEntry path="be.irail.api.data.Departure"/>
+    <classEntry path="be.irail.api.data.Arrival"/>
+    <classEntry path="be.irail.api.data.Vias"/>
+    <classEntry path="be.irail.api.data.Via"/>
+    <classEntry path="be.irail.api.data.Vehicle"/>
+    <classEntry path="be.irail.api.data.Platform"/>
+    <classEntry path="be.irail.api.parsers.IConnectionParser"/>
+    <classEntry path="be.irail.api.parsers.ConnectionsParser"/>
+    <classEntry path="be.irail.api.events.BeRailConnectionsEvent"/>
+    <classEntry path="be.irail.api.events.BeRailConnectionsErrorEvent"/>
+    <classEntry path="be.irail.api.parsers.StationParser"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
