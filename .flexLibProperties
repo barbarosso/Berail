@@ -21,6 +21,8 @@
     <classEntry path="be.irail.api.events.BeRailConnectionsEvent"/>
     <classEntry path="be.irail.api.events.BeRailConnectionsErrorEvent"/>
     <classEntry path="be.irail.api.parsers.StationParser"/>
+    <classEntry path="flexUnitTests.BerailTestSuite"/>
+    <classEntry path="flexUnitTests.BerailConnectionParser"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>

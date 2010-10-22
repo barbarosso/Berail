@@ -27,7 +27,7 @@ package be.irail.api.data
 		public var departure 			: Departure;
 		public var timeBetween 			: Number;
 		public var station 				: Station;
-		public var vehicle 		: Vehicle;
+		public var vehicle 				: Vehicle;
 		
 		public function Via()
 		{

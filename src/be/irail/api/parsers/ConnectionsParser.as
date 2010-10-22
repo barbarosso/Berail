@@ -130,7 +130,7 @@ package be.irail.api.parsers
 					via.timeBetween			= data.timeBetween;
 					
 					via.station				= parseStation(data.station);
-					via.vehicle				= data.vehicle;
+					via.vehicle				= parseVehicle(data.vehicle[0]);
 					
 				return via;
 			} 
